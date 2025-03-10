@@ -1,9 +1,0 @@
- PORT=4040
-CLIENT_URL=http://localhost:3000
-MONOGO_URI=mongodb://localhost:27017/project-name
-
-CLICK_SECRET_KEY=
-CLICK_SERVICE_ID=
-CLICK_MERCHANT_ID=
-CLICK_MERCHANT_USER_ID=
-CLICK_CHECKOUT_LINK=https://my.click.uz
